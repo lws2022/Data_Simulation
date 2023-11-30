@@ -7,7 +7,7 @@
 - bmi
 - height
 - age
-- country
+- country (UK, US, Canada, Australia, New Zealand)
 - city
 - education level (primary, high school, bachelor, master, phD)
 - 10 gene_expression values
